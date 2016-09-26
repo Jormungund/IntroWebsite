@@ -1,0 +1,46 @@
+body {
+
+	background-color: #0000ff;
+}
+
+#banner {
+	 background: linear-gradient(purple, turquoise);
+}
+h1 {
+	
+	color: #ff1a1a;
+	text-align: center;
+	text-shadow: 5px 5px 5px purple;
+}
+
+h2 {
+	
+	color: #009933;
+	text-align: center;
+}
+
+div {
+	
+text-align: center;	
+	
+}
+p {
+	
+	text-align: center;
+}
+
+#Varus {
+	border-style: inset;
+	border-width: 5px;
+	border-color:#00FFFF;
+	padding: 10px;
+	box-shadow: 10px 10px 10px 10px #ff0000;
+}
+
+#myslides {
+	border-style:ridge;
+	border-width: 5px;
+	border-color:#00FFFF;
+	padding: 10px;
+	box-shadow: 10px 10px 10px 10px #ff0000;
+}
